@@ -7,6 +7,6 @@ end
   def raise_hand
      super 
      string = "Pick me!"
-    puts string * 10
+    puts string * 10/n
 end
 end
