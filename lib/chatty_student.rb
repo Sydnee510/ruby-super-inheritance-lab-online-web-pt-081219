@@ -7,7 +7,7 @@ end
   def raise_hand
      super 
      string = "Pick me!\n"
-     puts string * 10 
+    # puts string * 10 
     #puts "Pick me!\n" * 10
 end
 end
