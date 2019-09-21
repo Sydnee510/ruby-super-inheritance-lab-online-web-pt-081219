@@ -8,6 +8,6 @@ end
      super 
     # string = "Pick me!"
     # puts string * 10 
-    10.times 
+    10.times {puts "Pick me!"/n}
 end
 end
